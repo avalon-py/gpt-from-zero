@@ -1,0 +1,6 @@
+__pycache__/, 
+*.pt, 
+*.ckpt, 
+gpt_from_zero/, 
+.env, 
+wandb/
