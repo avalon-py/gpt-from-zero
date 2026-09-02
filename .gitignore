@@ -3,4 +3,5 @@ __pycache__/,
 *.ckpt, 
 gpt_from_zero/, 
 .env, 
-wandb/
+wandb/,
+dataset/
